@@ -122,5 +122,7 @@ This project successfully demonstrates how machine learning can be used to predi
 ## 👨‍💻 Author
 
 Chaitanya Meher
+Swaraj Mathwad
+Durvesh Rane
 
 ---
