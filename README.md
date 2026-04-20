@@ -49,7 +49,6 @@ The project uses the **Student Performance Dataset**, which includes academic, s
 
 ## 🤖 Machine Learning Models Used
 
-* Logistic Regression
 * Decision Tree
 * Random Forest
 * K-Nearest Neighbors (KNN)
@@ -62,16 +61,15 @@ All models were trained and evaluated using accuracy.
 
 | Model               | Description             |
 | ------------------- | ----------------------- |
-| Logistic Regression | Best performing model   |
 | Decision Tree       | Simple tree-based model |
-| Random Forest       | Ensemble learning model |
+| Random Forest       | Best performing model   |
 | KNN                 | Distance-based model    |
 
 ---
 
 ## 🏆 Best Model
 
-* **Logistic Regression** achieved the highest accuracy and was selected as the final model.
+* **Random Forest** achieved the highest accuracy and was selected as the final model.
 
 ---
 
