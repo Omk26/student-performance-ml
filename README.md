@@ -9,7 +9,7 @@ This project aims to predict student academic performance using multiple machine
 ## 🎯 Objectives
 
 * Predict whether a student will pass or fail based on various features
-* Compare multiple machine learning models
+* Compare multiple machine learning models 
 * Select the most accurate model
 * Identify important factors affecting student performance
 
