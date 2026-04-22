@@ -1,9 +1,12 @@
 name: Update Leaderboard
 
 on:
-  pull_request:
+  push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
