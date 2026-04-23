@@ -1,0 +1,4 @@
+contributor,model,mse,r2,timestamp
+ChaitanyaMeher,Random Forest,0.8123,0.9012,2025-01-01 00:00 UTC
+ChaitanyaMeher,Decision Tree,1.2345,0.8456,2025-01-01 00:00 UTC
+ChaitanyaMeher,Linear Regression,1.5678,0.8012,2025-01-01 00:00 UTC
